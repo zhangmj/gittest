@@ -1,3 +1,4 @@
 first line for test.txt
 the second line for test.txt
 add func1
+edit conclick2
