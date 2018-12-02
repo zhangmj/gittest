@@ -3,5 +3,3 @@ the second line for test.txt
 add func1
 edit conclick1
 edit conclick2
-add test1
-add test2
